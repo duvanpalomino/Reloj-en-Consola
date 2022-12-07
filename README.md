@@ -1,2 +1,2 @@
-# Reloj-en-Consola
+# Cronometro
 Ejercicios de Practica
